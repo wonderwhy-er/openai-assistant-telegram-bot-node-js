@@ -9,6 +9,11 @@ It was made by team [Orbit8](https://devpost.com/software/digital-career-assista
 
 The core functionality of this bot is to demonstrate how to integrate Telegram with the OpenAI Assistant, making it a versatile starting point for developers looking to create their own AI-powered Telegram bots. The specific actions and responses of the bot can be customized according to the OpenAI Assistant prompts configured by the developer.
 
+## Diagram
+
+![pako_enqvvg1r2zaq_itcdnabgzw7bhldpnttugx2epovtmeyin1jtdlskp2bzqx_fsfzcv5ib_smn-55nrvnznrkus6ap_yif6evcqnazioxlfgcgysei3kuwrgruq_ydhafoninbrowr1dcwoikvduymkek9muj6nzmzq2vfovcdj4zz4oij2csvie1x2w8qzqijlvqffrhmvr3ttqslepn8bb2nhozf-wkm64tqvxz3qo](https://github.com/wonderwhy-er/openai-assistant-telegram-bot-node-js/assets/1150639/5c125d52-510f-42d6-9a11-ca090842afa3)
+
+
 ## Features
 
 - Template for setting up a Telegram bot integrated with the OpenAI Assistant API. .
