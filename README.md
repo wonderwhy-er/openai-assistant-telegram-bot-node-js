@@ -44,6 +44,9 @@ The core functionality of this bot is to demonstrate how to integrate Telegram w
 
 After starting the bot, it will be running and listening for messages. The behavior and responses of the bot can be customized by modifying the OpenAI Assistant prompts within the code. Experiment with different prompts to achieve the desired functionality and interactions.
 
+## TODOs
+- what thing we wanted to add was streaming. Currently we wait for full response which is slow. Would be nice to do streaming and already send messages to Telegram as parts come in 
+
 ## Contributing
 
 Contributions to this template are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
