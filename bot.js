@@ -16,17 +16,17 @@ if (fs.existsSync(configFilePath)) {
     {
       name: 'telegramBotToken',
       type: 'input',
-      message: 'Enter your Telegram Bot Token:',
+      message: `Enter your Telegram Bot Token, don't have one? Create it here https://t.me/BotFather:`,
     },
     {
       name: 'openAIKey',
       type: 'input',
-      message: 'Enter your OpenAI API Key:',
+      message: `Enter your OpenAI API Key. Don't have one? Create one here https://platform.openai.com/api-keys:`,
     },
     {
       name: 'openAIAssistantId',
       type: 'input',
-      message: 'Enter your OpenAI Assistant ID:',
+      message: `Enter your OpenAI Assistant ID. Don't have one? Create one here https://platform.openai.com/assistants:`,
     }
   ]).then(answers => {
     // Save the answers to the config file
